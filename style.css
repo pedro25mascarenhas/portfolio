@@ -54,3 +54,16 @@ main {
 .flex {
   display: flex;
 }
+
+#profile_photo {
+  border-radius: 50%;
+  height: 128px;
+  margin-left: 80px;
+  border:2px solid #00FF00;
+}
+
+.icons {
+  position: relative;
+  top: 5px;
+  margin-left: 10px;
+}
