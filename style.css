@@ -62,6 +62,12 @@ main {
   border:2px solid #00FF00;
 }
 
+#profile_no_border {
+  border-radius: 50%;
+  height: 128px;
+}
+
+
 .icons {
   position: relative;
   top: 5px;
@@ -78,4 +84,15 @@ main {
   color: black;
   box-sizing: border-box;
   padding-top: 5px;
+}
+
+#javascript_ball{
+  width: 15px;
+  height: 15px;
+  border: 2px solid gray;
+  background-color: rgba(255, 255, 0, 0.719);
+  border-radius: 50%;
+  text-align: end;
+  margin-left: 160px;
+  margin-top: 2px;
 }
